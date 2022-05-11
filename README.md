@@ -5,17 +5,19 @@
 
 No cóż - wielu z Was natknęło się na tę grę w dzieciństwie (z magazynu **PC World Computer**).
 
-Ten klasyczny rpg wydany w 2000 roku... blabla .W menu wita nas od razu kozacki pancerz a intro (jak i cel gry) silnie inspirowane jest naszym wielkim polakiem. Przedstawię tutaj krótki opis instalacji gry oraz instalację patchy **NIEZBĘDNYCH** do jej ukończenia.
+Ten klasyczny rpg wydany w 2000 roku... blabla.
+
+W menu wita nas od razu kozacki pancerz a intro (jak i cel gry) silnie inspirowane jest naszym wielkim polakiem. Przedstawię tutaj krótki opis instalacji gry oraz instalację patchy **NIEZBĘDNYCH** do jej ukończenia.
 ## Instalacja gry
 
-Instalujemy grę z CD1 (montując .mdf / .bin / .iso czy cokolwiek znajdziecie online), następnie montujemy CD2 w trybie **CD AUDIO**.
-W tym celu można użyć np **DAEMON Tools Lite** (mam flashbacki z dzieciństwa) i zamontować ją z pliku **.cue**
-Zamontowanie CD2 w jakimkolwiek innym trybie nie odpali nam muzyki 😔
+**CD1** - montujemy płytę i instalujemy grę w dowolnym folderze (nowsze systemy domyślnie obsługują emulację .iso)
 
-
-Osobiście nie mogłem zainstalować gry na Windows 11 (nie odpalał się stary instalator  InstallShield) - polecam postawienie windowsa XP na np. VirtualBox, zainstalowanie gry i po prostu skopiowanie folderu z grą na nasz system.
+**CD2** - montujemy w trybie **CD AUDIO** z pliku **.cue** (nie .bin) za pomocą np. **DAEMON Tools Lite** (mam flashbacki z dzieciństwa)
 
 ![Logo](./images/daemon.jpg)
+
+<em>Osobiście nie mogłem zainstalować gry na Windows 11 (nie odpalał się stary instalator  InstallShield) - polecam postawienie windowsa XP na np. VirtualBox, zainstalowanie gry i po prostu skopiowanie folderu z grą na nasz system.</em>
+
 ## Patche
 
 - 1.42
@@ -28,8 +30,12 @@ Osobiście nie mogłem zainstalować gry na Windows 11 (nie odpalał się stary 
 
 ## Pliki
 
-Wszystkie patche wrzucone są do repo dla potomności - płyty można znaleźć na chomiku lub też wyszukując grę po jej oryginalnej nazwie. 
+Wszystkie patche wrzucone są do repo dla potomności - płyty z grą można znaleźć na chomiku lub też wyszukując grę po jej oryginalnej nazwie - niestety gry samej w sobie nie można nigdzie obecnie nabyć (oprócz starych używanych płyt).
 
-Pozdrawiam i smacznej kawusi.
+W celu pobrania patchy należy kliknąć duży zielony przycisk **CODE** a następnie **"Download as zip"**.
+
+![Logo](./images/download.jpg)
+
+## Pozdrawiam i smacznej kawusi.
 
 ![Alt Text](./images/klepansko.gif)
