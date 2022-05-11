@@ -1,0 +1,31 @@
+;
+;	Copyright (C) 1998-1999 ABALON Entertainment, Inc.
+;	All rights reserved.
+;
+;	Date   : 1999. 08. 30
+;	Author : Daewoo, Kim
+;	e-mail : bighouse@abalonet.com
+;
+;	event1181.scr
+;	에디팅	: 박정백
+;	날짜   	: 1999.11.23
+;	설명	: 기술치올리기
+[VAR]
+var=0
+
+[MAP]
+
+[CHR]
+
+[NPC]
+
+[SPR]
+
+[WAV]
+
+[ACT]
+addskilltochar(var,13,100)
+getitem(0,22,1)
+getitem(0,29,1)
+addskilltochar(var,12,10)
+execevent(370)

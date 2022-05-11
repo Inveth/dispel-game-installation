@@ -1,0 +1,32 @@
+nale¿y podmieniæ pliki w katalogach
+\CharacterInGame\
+\ExtraInGame\
+\Ref\
+
+1.Naprawia opisy paru itmów:
+kostka w³adzy   - dodaje ATK (zamiast OBR)
+skóra trola     - dodaje OBR (zamiast ATK)
+jajo robaka leb - dodaje MAG (zamiast PM)
+
+2.Zmiana ¿enuj¹cych nazw lasek:
+laska 1 na 	kij
+laska 2		¿elazny dr¹g
+laska 3		laska	
+laska 4		dêbowa laska
+laska 5		laska druida
+laska 6		kostur
+laska 7		ciê¿ki kostur
+laska 8		kostur maga
+laska 9		kostur arcymaga
+Nazwy nie ka¿demu musz¹ siê podobaæ,
+ale na pewno s¹ lepsze od poprzednich ;-).
+
+3.Poprawka 2 napisów na szyldach przydro¿nych w Yam
+
+4.Wzbogacenie jednego z questów o legendarny przedmiot
+nie wykorzystany przez autorów gry.
+
+
+made by Nocek
+
+wzorowane na KKK (kkk@optimus.bci.pl)

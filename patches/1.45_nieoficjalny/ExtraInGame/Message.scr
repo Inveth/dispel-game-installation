@@ -1,0 +1,123 @@
+;"| ???"|??? ???|???? ??? ???(??? ??? null)|???? ??? ???(??? ??? null)
+0|null|null|null
+;"|"|?? ???||
+1|Pó³noc - JEYA, miasteczko medycyny|Po³udnie - leœne miasteczko LEHEM|Zachód - miasto JAKEN
+2|null|null|null
+3|null|null|null
+4|null|null|null
+5|null|null|null
+6|null|null|null
+7|null|null|null
+8|null|null|null
+9|null|null|null
+;"|"|REHEM ?? ???||
+10|Pó³nocny zachód – brama JAKEN |Zachód - miasteczko handlowe KOMAE |Wschód - leœne miasteczko LEHEM
+;"|"|? ?? ?? ???||
+11|Po³udnie - granica z YAM|Zachód - miasteczko handlowe KOMAE ,zachodnia brama JAKEN|Wschód - leœne miasteczko LEHEM
+;"| "|KOMAE? ?? ??||
+12|Pó³nocny wschód - zachodnia brama miasta JAKEN|Po³udnie - granica z YAMM|null
+13|Pó³nocny zachód  - miasteczko twórców FETAE|Miasteczko historyczne - VARAGEL|Po³udniowy zachód - miasteczko handlowe KOMAE
+;"|"|KOMAE ??||
+14|Po³udnie - miasteczko handlowe KOMAE|Pó³nocny zachód - FETAE i VARAGEL|Pó³nocny wschód - granica z Shereg
+;"|"|????? ?? ??||
+15|Gospoda 'Pokój nad rzek¹'|null|null
+;"|"|??? ??||
+16|Pó³noc - granica z Shereg|Wschód - JEYA, miasteczko medycyny|Po³udniowy zachód - VARAGEL, FETAE i KOMAE
+;"|"|?? ??||
+17|Ogród œwiat³a|null|null
+;"|"|??? ??||
+18|Bóg tworzy 'ceremoniê Vary' |null|null
+;"|"|??? ??||
+19|Farma Bogów|null|null
+;"| "|??? ???||
+20|Wschód - ILEM, miasteczko magii|Pó³noc - Miasteczko duszy PNEWMA|Po³udnie - ILEM
+21|Po³udnie - granica z Aesh.|Zachód - miasto YOULA|null
+22|Pó³noc - kraina snów AYAL|Zachód - miasto YOULA|Wschód - ILEM, miasteczko magii
+23|Zachód - Miasteczko duszy PNEWMA|null|null
+24|null|null|null
+25|Wejœcie do krainy Wielkiego Œniegu|null|null
+26|Góra Mocy|null|null
+27|Ceremonia boga NUMA|null|null
+28|Niebezpieczeñstwo! Zamkniêta kopalnia.  Stop!|null|null
+29|Têdy do lochu Goblinów we wschodnim lesie|null|null
+;"| ?? ??? ???"|||
+30|Pó³nocny wschód - brama miasta YALE|Po³udnie - HARL, miasteczko rybaków |Zachód - miasteczko KOHALE
+31|Po³udnie - HARL, miasteczko rybaków|null|null
+32|Wschód - miasteczko NAHASHI|null|null
+33|Pó³nocny wschód - miasteczko natury SHIMHA|null|null
+34|Po³udnie - HALA, miasteczko ukrycia|null|null
+35|Po³udniowy wschód - HARL, miasteczko rybaków|null|null
+36|Pó³noc - KOHALE, YALE i NAHASHI|Po³udnie - HARL, miasteczko rybaków|null
+37|Pó³noc - Œwiêta Kraina Ro¿ców|null|null
+38|Po³udnie - labirynt Ciemnoœci|null|null
+39|Po³udnie - labirynt Ciemnoœci|Wschód - miasteczko NAHASHI|null
+;"| ?? ????"|||
+40|Gospoda 'Poranna nadzieja'|null|null
+41|Sklep z akcesoriami 'Pilna  wiewiórka'|null|null
+42|Sklep z broni¹ 'Pora¿aj¹ce œwiat³o'|null|null
+43|Sklep z artyku³ami magicznymi 'Tajemnicze skrzyd³a'|null|null
+44|Gospoda 'Górskie ognisko'|null|null
+45|Sklep z akcesoriami 'Ma³e szczêœcie'|null|null
+46|Sklep z broni¹ 'S³owo or³a'|null|null
+47|Sklep z akcesoriami 'Wschodz¹ce s³oñce'|null|null
+48|Sklep z broni¹ 'Pewny krok'|null|null
+49|Gospoda 'Go³¹b na drzewie'|null|null
+50|Sklep z artyku³ami magicznymi 'Szept wiatru'|null|null
+51|Sklep z artyku³ami magicznymi 'Dusza nad chmurami'|null|null
+52|Sklep z akcesoriami 'Fontanna wiedzy'|null|null
+53|Gospoda 'Legenda wielkiego b³êkitu'|null|null
+54|Sklep z broni¹ 'Leœny tygrys'|null|null
+55|Sklep z akcesoriami 'Dzieñ sowy'|null|null
+56|Gospoda 'Szczêœliwy nieznajomy'|null|null
+57|Sklep z akcesoriami 'Fontanna z³ota' |null|null
+58|Gospoda 'Towarzysz podró¿y'|null|null
+59|Sklep z broni¹ 'Wiatr odwil¿y'|null|null
+60|Sklep z akcesoriami 'Niegasn¹ce œwiat³o'|null|null
+61|Sklep z akcesoriami 'Wibracje oceanu'|null|null
+62|Gospoda 'Czekanie na deszcz'|null|null
+63|Sklep z artyku³ami magicznymi 'Lampa Ontosa'|null|null
+64|Sklep z akcesoriami 'Gwiazda nad g³ow¹'|null|null
+65|Sklep z artyku³ami magicznymi 'Cicha zjawa'|null|null
+66|Gospoda 'Awanturnik z Paidews' |null|null
+67|Sklep z broni¹ 'Przyp³yw mocy'|null|null
+68|Sklep z broni¹ 'Rycerz snu'|null|null
+69|Sklep z akcesoriami 'Œwiat³o s³oñca'|null|null
+70|Gospoda 'Miejsce nieznajomych'|null|null
+71|Gospoda 'Legenda rycerza'|null|null
+72|Sklep z akcesoriami 'B³ogos³awiony dzwon'|null|null
+73|Gospoda 'Senny nieznajomy'|null|null
+74|Sklep z akcesoriami ' Jezioro nadziei'|null|null
+75|Sklep z broni¹ 'Skrzyd³a odwagi'|null|null
+76|Gospoda 'Œwiat³o ksiê¿yca we  mgle'|null|null
+77|Sklep z artyku³ami magicznymi 'Magiczna opowieœæ'|null|null
+78|Sklep z akcesoriami 'P³ot mistrza'|null|null
+79|Sklep z broni¹ 'Œpiew nieœmiertelnego ptaka'|null|null
+80|Sklep z broni¹ 'Biegn¹cy bia³y koñ'|null|null
+81|Gospoda 'Wdziêcznoœæ nieznajomego'|null|null
+82|Sklep z artyku³ami magicznymi 'Mroczna peleryna'|null|null
+83|Gospoda 'Fontanna wdziêcznoœci'|null|null
+84|Sklep z broni¹ 'Biegn¹cy lew'|null|null
+85|Sklep z akcesoriami 'Kaptur mistrza'|null|null
+86|Gospoda 'Miejsce spoczynku wiatru'|null|null
+87|Sklep z akcesoriami 'Lustro wiedzy'|null|null
+88|Sklep z broni¹ 'Z³ota tarcza'|null|null
+89|Gospoda 'Œni¹ce drzewo|null|null
+90|Gospoda 'Cieñ odpoczynku'|null|null
+91|Sklep z broni¹ 'Strza³a z nieba'|null|null
+92|Sklep z akcesoriami 'G³os serca'|null|null
+;"| ?? ?? ???"|||
+93|Pub 'Niebieska noc'|null|null
+;"| ?? ? ??"|||
+94|null|null|null
+;"| ??? 1?"|||
+95|Mo¿esz znaleŸæ drogê jeœli siê obronisz!|null|null
+96|Ciekawoœæ idzie w parze ze strachem|null|null
+97|null|null|null
+98|Mo¿esz znaleŸæ drogê jeœli otrzymamy miecz.  |null|null
+;"| ??? 2?"|||
+99|null|null|null
+100|null|null|null
+;"| ?????"|||
+101|Mo¿esz znaleŸæ drogê jeœli stawimy temu czo³a.|null|null
+;"| ??? 3?"|||
+102|Tu jest droga, której szukaliœmy.|null|null

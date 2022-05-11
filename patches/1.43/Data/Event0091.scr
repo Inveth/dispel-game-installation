@@ -1,0 +1,52 @@
+;
+;	Copyright (C) 1998-1999 ABALON Entertainment, Inc.
+;	All rights reserved.
+;
+;	Date   : 1999. 08. 30
+;	Author : Daewoo, Kim
+;	e-mail : bighouse@abalonet.com
+;
+;	event0091.scr
+;	에디팅	: 윤진영
+;	날짜   	: 2000. 1. 5
+;	설명	: 야스 헨과의 첫번째 대화 이벤트
+
+[VAR]
+varcheck=0
+
+[MAP]
+
+[CHR]
+
+[NPC]
+
+[SPR]
+
+[WAV]
+
+[ACT]
+
+chkitem(varcheck,4,9)
+if(varcheck,=,0)
+{
+return(0)
+}
+else
+{
+chractivate(0)
+chrmoveto(0,0)
+startevent()
+dialogtonpc(7,2044)
+getitem(3,2,0)
+getitem(3,5,0)
+setevent(155,0)
+setevent(156,0)
+setevent(157,0)
+setevent(169,1)
+refreshnpc()
+addquest(163)
+setquest(162)
+endevent()
+chractivate(1)
+return(1)
+}
